@@ -1,0 +1,327 @@
+PERCEPTION - You stir to consciousness sprawled upon the ground. It’s cool and gritty against your cheek, and the air smells faintly of dust and ozone.
+
+SAVOIR FAIRE - As you push yourself to your feet, a strange heaviness pulls on your limbs, like someone’s wrapped you in a weighted blanket.
+
+INLAND EMPIRE [Medium: Success] - Something has changed. Something is new.
+
+Where am I? [Look up.]
+What am I wearing? [Look down.]
+What happened? [Look back.]
+Where do I go from here? [Look ahead.]
+YOU - Where am I? [Look up.]
+
+PERCEPTION (SIGHT) [Medium: Success] - You’re standing on a small island of bluish-grey stone, surrounded on all sides by a sheer drop into an impenetrable darkness. The sky above you is similarly pitch-black, yet despite the lack of sunlight or other illumination, you can see without hindrance.
+
+LOGIC [Trivial: Success] - This does not look like the inside of a closet.
+
+VISUAL CALCULUS [Challenging: Success] - Nor below it. Assuming this is an underground cavern, it must be incredibly vast for the walls to be out of sight entirely; you would know if a cavity of that size existed underneath the school, because the entire town would have collapsed into it long ago.
+
+Where am I? [Look up.]
+What am I wearing? [Look down.]
+What happened? [Look back.]
+Where do I go from here? [Look ahead.]
+YOU - What am I wearing? [Look down.]
+
+KNIGHT'S ARMOR - Looking down at yourself, you immediately notice that your sweater and slacks have been swapped out for a very different outfit. Your limbs and vital areas are clad in a layer of segmented steel plates, while the remainder is obscured by a thick black bodysuit that flows comfortably across your skin. The ensemble is tied off at your neck by a bandana.
+
+INTERFACING [Challenging: Success] - As you flex your fingers, a multitude of tiny scales shift and flow over each knuckle of the gauntlet. It’s far lighter than you’d expect from this quantity of metal, barely hindering your movements at all, and the whole assemblage gleams like it was forged yesterday. You may not be an expert on medieval equipment, but this is clearly high-quality stuff.
+
+SAVOIR FAIRE [Medium: Success] - Pretty snazzy ensemble you’ve found yourself in, Kris! You’d be the fashion statement of the century if you brought this to school – maybe even the millenium.
+
+PERCEPTION (SIGHT) - That’s not all that’s different, though. The bangs that fall into your vision are as dark as the void around you, and while the armour reveals very little, you can still see a few patches of skin showing through in a vibrant shade of cyan.
+
+ENDURANCE [Medium: Success] - Congratulations. As if emulating jaundice symptoms wasn’t bad enough, you’ve somehow managed to find an even stranger skin tone than your usual.
+
+PAIN THRESHOLD [Easy: Success] - You don’t seem injured, at least - that’s a relief, not to mention a miracle. By all rights, you should be at least somewhat bruised, and if you’d landed on your neck…
+
+VOLITION [Medium: Success] - Let’s not think about that.
+
+Where am I? [Look up.]
+What am I wearing? [Look down.]
+What happened? [Look back.]
+Where do I go from here? [Look ahead.]
+YOU - What happened? [Look back.]
+
+ENCYCLOPEDIA [Godly: Failure] - The floor broke, and you fell. Everything else is blank. You don’t have the slightest idea why your appearance changed, how you got here, where Susie is…
+
+REACTION SPEED [Easy: Success] - Susie! She’s down here, too – and maybe in trouble. There’s no telling what kind of otherworldly dangers she might have run into.
+
+EMPATHY [Easy: Success] - She may be unpleasant, but that doesn’t mean she deserves to die, especially not in such a cold and lonely place.
+
+ESPRIT DE CORPS [Medium: Success] - Besides which, there is safety in numbers, and she would make for a powerful ally. If you can convince her to set aside her grudge and join forces with you, your chances of survival are far higher than going solo.
+
+New task: Find Susie
+
+Where am I? [Look up.]
+What am I wearing? [Look down.]
+What happened? [Look back.]
+Where do I go from here? [Look ahead.]
+YOU - Where do I go from here? [Look ahead.]
+
+VISUAL CALCULUS [Easy: Success] - There’s only one path forward: a thin peninsula of stone connects this outcropping to the mainland, a patchwork assemblage of barren cliffs and narrow ledges fading into the dark.
+
+INLAND EMPIRE [Formidable: Success] - Wait. There, by the edge of the path. Something is shining, can't you see?
+
+PERCEPTION (SIGHT) [Trivial: Success] - What are you talking about? There’s nothing here but bare rock.
+
+INLAND EMPIRE - No, not like that. This is a light for the SOUL, not for the eyes.
+
+VOLITION [Medium: Success] - The Dreamer gets like this sometimes. You might as well go along with it, seeing as nothing else seems to make sense here.
+
+Alright, I’ll humour you. Where is this mysterious light, exactly?
+I’m gonna say “doubt” to that one. Let’s keep moving.
+YOU - Alright, I'll humour you. Where is this mysterious light, exactly?
+
+INLAND EMPIRE - About three paces to your left, a flickering gold sparkle hovers at waist height. It casts a strangely welcoming warmth onto your fingers - the comfort of returning home after a long journey, perhaps.
+
+PAIN THRESHOLD [Medium: Success] - It sounds crazy, but you really do feel better. The lingering ache along your back from the locker incident fades, and within moments it’s like it was never there at all.
+
+EMPATHY [Medium: Success] - You can feel a gentle touch reach in and brush the morning’s cobwebs from your mind, like your mother wiping stains from the corner of your mouth.
+
+VOLITION and ENDURANCE - In mind and body, you are made whole.
+
+HEALED HEALTH +MAX
+
+HEALED MORALE +MAX
+
+ELECTROCHEMISTRY - Wow, that feels… amazing. Good call, Dreamer! Keep us posted if there’s any more of these sparkles in future.
+
+REACTION SPEED [Easy: Success] - In the meantime, we have a classmate to find. We’d best not stand around any longer.
+
+SAVOIR FAIRE [Medium: Success] - You set off, boots clanking against the soil. It doesn’t take long to find your stride: far from holding you back, the added bulk of your armour seems to enhance your momentum, pushing you forward into a steady, mile-eating march.
+
+PHYSICAL INTRUMENT [Medium: Success] - You’ve barely set off, and already the runner’s high is starting to creep in, limbs pumping and breath quickening. You should get out of the house more often, if this is what it’s like.
+
+VOLITION [Challenging: Success] - It isn’t usually, no; there’s a reason you stay inside so much, and it’s not the weather. Is this euphoria an aftereffect of the healing, or the product of another unseen transformation?
+
+VITREOUS NODES - There are other islands, small spires of rock reaching upwards. Perched on each one is some kind of plant-like growth: a long, thin stem grows up from a wider base, before blooming out into a large ivory sphere. They react to your presence as you pass by, oscillating back and forth with an unearthly chittering noise.
+
+PERCEPTION (SIGHT) [Medium: Success] - The mainland draws near, and your lonely path merges with the cliff face to form a winding mountain trail. The wall beside you is marred with unsettling eye-shaped graffiti alongside various holes and pockmarks, some of which ooze a translucent, tarlike substance.
+
+LOGIC [Medium: Success] - It’s unclear whether this is a real mineral-oil product or simply a semi-solidified state of the omnipresent darkness. Either way, you probably shouldn’t touch it.
+
+REACTION SPEED [Formidable: Failure] - Was there something up there on the cliff? Whatever it was, it’s gone now.
+
+SLIPPERY SLOPE - The path’s been mostly flat so far, but this section has crumbled into a steep drop. Too steep to walk down - you’ll have to get down another way.
+
+PERCEPTION (SIGHT) [Easy: Success] - It seems that many others have had the same idea, as there’s a clear trajectory down the middle, worn smooth as if to invite you down.
+
+[Savoir Faire - Easy 8] Slide down.
+Yeah, I’m not trying that. Let’s look for another way down.
+YOU - Slide down.
+
++1 Well-travelled path
+
+CHECK SUCCESS
+
+SAVOIR FAIRE [Easy: Success] - You settle yourself against the smoothed rut and, in a motion repeated in playgrounds the world over, give yourself a push. The air flies past as you descend, and before you know it, you've touched down at the bottom. Textbook execution, if I do say so myself.
+
+DIVERGING PATHS - Down here is much the same as up there, with one notable change: the path forks in two directions. One goes the same way you’ve been following so far, but the other diverts off to your right.
+
+Head forward.
+Head right.
+YOU - Head right.
+
+RIGHT PATH - There doesn’t seem to be anything here. It’s just a disappointing dead end, cut short by another cliff.
+
+PERCEPTION (SIGHT) [Medium: Success] - At first glance, perhaps: but as you look closer, you spy a faint gleam, shining out of the rock.
+
+VOLITION [Medium: Success] - Unfortunately, the hole it’s shining out of also happens to be leaking the same tarry stuff you saw before. Puzzlehead already warned you about this -- don’t get that stuff on your hands if you can help it.
+
+Okay, okay. [Return to the main path.]
+[Hand/Eye Coordination - Easy 8] You can’t tell me what to do! [Plunge your hand into the hole.]
+YOU - You can’t tell me what to do! [Plunge your hand into the hole.]
+
++1 Got the chocolate
+
+CHECK SUCCESS
+
+HAND/EYE COORDINATION [Easy: Success] - There’s enough of the shiny whatever-it-is sticking up out of the grime that you might be able to dredge it up without getting your gauntlet too sticky. Careful, careful… Gotcha!
+
+VOLITION - Why do I even bother?
+
+SHINING OBJECT - Now that you can inspect it more closely, the mysterious object is revealed to be a small, oblong shard of crystal. It glows faintly with an inner light.
+
+LOGIC [Legendary: Failure] - This clearly isn’t an ordinary piece of glass, but neither is it any other material you’ve heard of. What kind of gemstone glows by itself?
+
+SAVOIR FAIRE [Challenging: Success] - More importantly, what kind of price will it fetch on the free market? This is a huge score, Kris! You’d best hold on tight to a find like this.
+
+ENCYCLOPEDIA [Medium: Success] - Radioactive particles can interact with certain transparent materials to produce a distinctive blue glow, known as Cherenkov radiation.
+
+ENDURANCE [Medium: Success] - Radiation?! Drop it, *now*! The cereal was bad enough - we’re not holding onto some kind of cursed death-rock because the Acrobat wanted to make a quick buck!
+
+CONCEPTUALIZATION [Medium: Success] - I wouldn't be so concerned; this is more of a warm yellow than the blueish shade Pillar-Bookhead was talking about. In fact, it reminds me more of that sparkle from earlier. What do you say, Dreamer?
+
+INLAND EMPIRE [Challenging: Success] - It’s no octarine, but this homely hue may well be the colour of magic. Perhaps you could ask the wizard when you find him? In any case, this little glimmer is nothing to be scared of.
+
+I love being irradiated! [Accept item.]
+Eh, miss me with that mutation crap. [Discard item.]
+YOU - I love being irradiated! [Accept item.]
+
+Item gained: Glowshard
+
+ENDURANCE - Alright, fine. If you want to take Good Witch Glinda’s advice over mine, that’s your decision. Just don’t come crying to me when they have to amputate.
+
+DRIFTING FLUFF - As you make your way back to the main thoroughfare, a new feature of the landscape catches your eye: a huge pile of dust has gathered by the wayside, rising taller than your head.
+
+PERCEPTION (HEARING) [Medium:Success] - As it shifts and settles in the breeze, a soft susurration of ambient noise emits from its depths.
+
+HALF LIGHT - Dust? Surely not…
+
+LOGIC [Easy: Success] - Thankfully, no. Monster dust has a very distinct colour and texture. This is probably just an assortment of various particulates -- mainly clothing fibres and shed skin flakes, if I’m not mistaken.
+
+VOLITION [Easy: Success] - That's a relief; this situation is creepy enough without being outright morbid. Small mercies, I suppose.
+
+VITREOUS NODES - There’s a few more of those globes here, though these are black instead of white. When you walk past, they start swaying like the others - but their motion is far more violent, dislodging a handful of white seedpods to fly in your direction.
+
+HAND/EYE COORDINATION [Medium: Success] - Their trajectories seem to follow a set pattern of threes, spaced out thirty degrees to either side. It shouldn’t be too hard to slip between one and the next.
+
+LOGIC [Medium: Success] - I’m not sure you even need to bother. They’re slow enough that you could easily outrun them entirely - so slow, in fact, that they seem to hang in the air in clear defiance of gravity. Would an impact even hurt at this velocity?
+
+HALF LIGHT [Challenging: Success] - Don’t let it fool you. These things emanate a bubbling vitriol that promises pain if you let them near.
+
+[Reaction Speed - Easy 8] Dodge the projectiles.
+[Savoir Faire - Medium 10] Run past them without stopping.
+Walk through without dodging.
+YOU - Dodge the projectiles.
+
++1 Saw the pattern
+
+-1 Don’t bother
+
+CHECK SUCCESS
+
+REACTION SPEED [Easy: Success] - It doesn’t take much effort to slip between the spores. They’re large, slow, and predictable - you barely even have to slow down at all.
+
+INLAND EMPIRE [Easy: Success] - It wouldn’t have mattered: there’s another healing light just here, casting its glow onto the wounds you never had.
+
+HEALED HEALTH +MAX
+
+HEALED MORALE +MAX
+
+ELECTROCHEMISTRY [Easy: Success] - The sensation of total refreshment doesn’t feel any less invigorating the second time around. A body could get used to this…
+
+PHYSICAL INSTRUMENT - Don’t forget the rush of victory! Heh, if that was supposed to be a challenge, then I’d say we’re doing pretty well so far.
+
+VISUAL CALCULUS [Trivial: Success] - Don’t pat yourself on the back too soon. The path ahead abruptly drops away into nothing, continuing on the other side of a chasm. It’s way too far to jump across: you wouldn't even get halfway.
+
+PHYSICAL INTRUMENT [Challenging: Success] - Aw, don’t be such a spoilsport! Come on, you can make it across – just give it a good run-up and you’ll be fine.
+
+VOLITION [Easy: Success] - I’d have to advise against throwing yourself into the abyss, not when you have choices. Let’s try something else first.
+
+[Physical Instrument - Godly 16] Throw yourself to the other side!
+Look around for another path.
+YOU - Look around for another path.
+
+STRANGE PICTURE - To your left, the cliff face is adorned by more of those creepy eye paintings. These ones have a little more to them, though: each eye is underscored with a line of three dots, and below each of those, a small piece of rock sticks out conspicuously.
+
+CONCEPTUALIZATION [Legendary: Failure] - What is this, some kind of mural? If it is, the artistic significance is lost on you.
+
+LOGIC [Medium: Success] - It seems too regular, too *purposed* to be simply decorative - a set of instructions, perhaps, or a story.
+
+REACTION SPEED [Medium: Success] - There’s something written on that pillar next to the healing place. It’s almost the same colour as the stone behind -- you must have missed it in the rush of renewal.
+
+PLAQUE - A metal plaque is bolted to the stone. Engraved onto it is a message: “In this land, only eyes blinded by darkness can see the way…”
+
+LOGIC [Formidable: Failure] - A cryptic statement, if ever there were. It seems to be hinting at a way to progress, and it almost certainly relates to that arrangement of eyes and dots, but what could “blinded by darkness” mean?
+
+[Logic - Heroic 15] Try to figure it out.
+Go back and search for another way across.
+YOU - Try to figure it out.
+
+CHECK FAILURE
+
+ 
+
+LOGIC [Heroic: Failure] - It’s no use – you don’t even know where to begin. We need more information to figure this out. Try inspecting that mural more closely; perhaps there’s more than meets the eye.
+
+REACTION SPEED [Challenging: Success] - Pun intended?
+
+LOGIC - Not a chance.
+
+Inspect the eyes.
+Inspect the dots.
+Inspect the divots.
+[Locked] Try to figure it out.
+YOU - Inspect the eyes.
+
+PAINTED EYES - There they are, just as off putting as the ones before. The eyes are a typical almond shape with empty pupils staring down at you, and a thin vertical line extends from each lid like a clown’s makeup.
+
+PERCEPTION (TOUCH) [Easy: Success] - Running your fingers across the image reveals no surprises. It’s a flat image, nothing more - the paint isn’t even sticky.
+
+Inspect the eyes.
+Inspect the dots.
+Inspect the divots.
+[Logic - Heroic 15] Try to figure it out.
+YOU - Inspect the dots.
+
+DOT PATTERN - Below each eye is a row of three dots, painted in the same way as the eyes. Some are filled in, while others are left as hollow outlines: the first set are full, empty, full; the second are full, full, empty; and the last are empty, empty, full.
+
+LOGIC - No pattern to them that I can see. Keep going, there’s one more detail to look into.
+
+Inspect the eyes.
+Inspect the dots.
+Inspect the divots.
+[Logic - Heroic 15] Try to figure it out.
+YOU - Inspect the divots.
+
+STONE DIVOTS - A tiny nodule of stone sticks out from the rock below each set of dots, as thick as your pinky finger. The crack between them and the surrounding rock is thin, but deeper than you can see.
+
+INTERFACING [Challenging: Success] - As you run your fingers over the nubbin, you feel it give slightly. You push into it, overcoming a little resistance, and it sinks in with a click before popping back out to the original position. It’s… a push-button? Is this all some kind of mechanism?
+
+PAINTED EYES - The upper outline of the first and third eye wavers for a moment, then bleeds down into their interior, rendering each one blank and dark.
+
+LOGIC [Medium: Success] - Ignoring the anomalous paint behaviour for a moment, only the first and third eyes responded, which correlates to the closed dots in the pattern. You’ve seen things like this before – it’s a lights-out puzzle.
+
+CONCEPTUALIZATION [Easy: Success] - Well, there’s our “eyes blinded by darkness”. I must say, I wasn't expecting this mysterious underworld to feature contrived children’s diversions.
+
+INTERFACING - A second press reverses the change, paint flowing impossibly upwards to its original position.
+
+Inspect the eyes.
+Inspect the dots.
+Inspect the divots.
+[Logic - Heroic 15] Try to figure it out.
+Press buttons randomly until you get it.
+YOU - Try to figure it out.
+
++3 Read the instructions
+
++2 Considered the symbols
+
++1 Found the buttons
+
+CHECK SUCCESS
+
+LOGIC [Heroic: Success] - Now that you understand the mechanics and objective, it's almost insultingly easy. From your starting state, the middle and right buttons together toggle each eye exactly once, which should set all three to the “blind” position.
+
+BRIDGE - As you enter the solution knowingly, a bridge of clear glass tiles manifests from nothing, extending to the other side of the chasm.
+
+COMPOSURE [Medium: Success] - Testing the glass with a tentative sabaton, you find it’s not as slippery as you expected, and seems to hold your weight without a hint of strain. It’s still somewhat disconcerting to look straight past your feet into an endless drop, but you make it to the other side without consequence.
+
+SAVOIR FAIRE [Easy: Success] - There’s another slide here, which you navigate with just as little issue as the first. It’s almost kind of fun!
+
+PERCEPTION (TOUCH) - This plateau is dotted with several mounds of dust. As you lay a hand on one to discern its texture, the upper half of the pile loses coherence and flies apart, dispersing into the wind to reveal a large boulder underneath.
+
+CONCEPTUALIZATION [Medium: Success] - You can picture how this happens: stray fibres and debris are blown here by the wind and catch on the nearest obstacle, gathering over time like a snowdrift, or perhaps in the way that droplets of rain nucleate around airborne particles.
+
+REACTION SPEED [Medium: Success] - Hold on a second, something just ran out from behind that pile you smashed. It’s hiding behind that one now.
+
+HALF LIGHT [Medium: Success] - An ambush? Not on my watch. Tear these things asunder - give them nowhere to hide from you!
+
+SHADOWY FIGURE - As you run from pile to pile, slashing your hand through each potential hiding place, your quarry ducks away just as desperately, until there is only one dust pile left.
+
+??? - “H-hey, back off! Come any closer and I'll… I’ll bite your face off!”
+
+RHETORIC [Easy: Success] - That threat sounds very familiar. Twice in one day - what are the chances?
+
+INLAND EMPIRE [Challenging: Success] - Higher than you may think. This is not the first time, nor will it be the last before the sun sets on our journey.
+
+PERCEPTION (SIGHT) [Formidable: Failure] - It’s no coincidence: the final drift blows apart to reveal an all-too familiar muzzle. Susie looks to have gone through a similar change to your own, but you’re too overcome by relief and nerves to process the details right now.
+
+Task complete: Find Susie
+
++15xp
+
+EMPATHY [Medium: Success] - Huh. I suppose face biting is just her default response to being threatened.
+
+RHETORIC - Oh, really? I never would have guessed.
