@@ -18,7 +18,7 @@ def replace(matchobj):
     skill =  matchobj.group(1) or ""
     check =  matchobj.group(2) or ""
     text =  matchobj.group(3) or ""
-    skill_span = "<span class='" + to_class(skill) + "'>" + skill+ "</span> "
+    skill_span = "<span class='" + to_class(skill) + "'>" + skill + "</span> "
     check_span = "<span class='check'>" + check + "</span> " 
     return "<p>" + skill_span + check_span + text + "</p>"
 
@@ -41,18 +41,52 @@ out = "\n".join(out_lines)
 header = """<head>
     <style>
         body {background-color: black; color: white;}
-        .fys, .endurance, .physical, .pain {color:#cb476a}
-        .mot, .interfacing, .savoirfaire, .perception, .perceptionsight, .reaction {color:#e3b734}
-        .psy, .volition, .inlandempire, .esprit, .empathy{color:#7556cf}
+        .int,
+            .logic,
+            .encyclopedia,
+            .rhetoric,
+            .drama,
+            .conceptualization,
+            .visualcalculus
+            {color: #5cc1d7}
+        .psy, 
+            .volition, 
+            .inlandempire, 
+            .empathy,
+            .authority,
+            .espritdecorps,
+            .suggestion
+            {color:#7556cf}
+        .fys, 
+            .endurance, 
+            .painthreshold,
+            .physicalinstrument, 
+            .electrochemistry,
+            .shivers,
+            .halflight
+            {color:#cb476a}
+        .mot,
+            .handeyecoordination,
+            .perception,
+            .perceptionsight,
+            .perceptionhearing,
+            .perceptionsmell,
+            .perceptiontaste,
+            .perceptiontouch,
+            .reactionspeed,
+            .savoirfaire, 
+            .interfacing, 
+            .composure
+            {color:#e3b734}
     </style>
 </head>
 <body>
 """
 footer = """</body>
 </html>"""
-out = header + out + footer
+html = header + out + footer
 
 with open(outfile, "w", encoding="utf-8") as f:
-    f.write(out)
+    f.write(html)
 
-print(out[:1000])  # check first few lines
+print(out[:2000])  # check first few lines
