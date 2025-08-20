@@ -1,6 +1,7 @@
 import re
 import string
 
+templatefile = "template.html"
 infile = "disco_in.txt"
 outfile = "disco_out.html"
 
@@ -38,52 +39,9 @@ for line in lines:
 
 out = "\n".join(out_lines)
 
-header = """<head>
-    <style>
-        body {background-color: black; color: white;}
-        .int,
-            .logic,
-            .encyclopedia,
-            .rhetoric,
-            .drama,
-            .conceptualization,
-            .visualcalculus
-            {color: #5cc1d7}
-        .psy, 
-            .volition, 
-            .inlandempire, 
-            .empathy,
-            .authority,
-            .espritdecorps,
-            .suggestion
-            {color:#7556cf}
-        .fys, 
-            .endurance, 
-            .painthreshold,
-            .physicalinstrument, 
-            .electrochemistry,
-            .shivers,
-            .halflight
-            {color:#cb476a}
-        .mot,
-            .handeyecoordination,
-            .perception,
-            .perceptionsight,
-            .perceptionhearing,
-            .perceptionsmell,
-            .perceptiontaste,
-            .perceptiontouch,
-            .reactionspeed,
-            .savoirfaire, 
-            .interfacing, 
-            .composure
-            {color:#e3b734}
-    </style>
-</head>
-<body>
-"""
-footer = """</body>
-</html>"""
+with open(templatefile) as f:
+    template = f.read()
+header,footer = template.split("====")
 html = header + out + footer
 
 with open(outfile, "w", encoding="utf-8") as f:
