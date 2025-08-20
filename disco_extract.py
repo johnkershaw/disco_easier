@@ -21,7 +21,7 @@ def replace(matchobj):
     text =  matchobj.group(3) or ""
     skill_span = "<span class='" + to_class(skill) + "'>" + skill + "</span> "
     check_span = "<span class='check'>" + check + "</span> " 
-    return "<p>" + skill_span + check_span + text + "</p>"
+    return skill_span + check_span + text
 
 with open(infile, encoding="utf-8") as f:
     lines = f.readlines()
@@ -35,7 +35,8 @@ for line in lines:
               + r"(\[[^]]+\])?"     # optional [check] text
               + r"([^\n]+)")        # rest of line
     html_line = re.sub(search, replace, line)
-    out_lines.append(html_line)
+    p_line = "<p>" + html_line.strip() + "</p>\n"
+    out_lines.append(p_line)
 
 out = "\n".join(out_lines)
 
